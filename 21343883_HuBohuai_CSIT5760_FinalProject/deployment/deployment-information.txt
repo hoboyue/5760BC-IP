@@ -1,0 +1,22 @@
+Deployment Information — AntiScalpingTicketing
+================================================
+
+Network name      : Sepolia
+Chain ID          : 11155111
+Contract name     : AntiScalpingTicketing
+Contract address  : 0x47e0546d504fe68757753aBE05Db0CF41Fe476AB
+Deployer address  : 0xB0B16c5ffCcB31f3f68a45c17Cab8C226A5D5222
+Deployment tx hash: 0xe674b0b199c523e3e130eef385208e7cef4f569de2ea63b75e9c5cb9caef9fa9
+Block number      : 12192551
+Gas used          : 21530137
+Compiler version  : 0.8.9+commit.e5eed63a.Emscripten.clang
+Optimization      : enabled
+Optimization runs : 200
+EVM version       : london
+Deployment tool   : ethers.js 6.13.4 (scripts/deploy-sepolia.js)
+Deployment date   : 2026-11-23T01:40:30.565Z
+Etherscan URL     : https://sepolia.etherscan.io/address/0x47e0546d504fe68757753aBE05Db0CF41Fe476AB
+Verification URL  : https://sepolia.etherscan.io/address/0x47e0546d504fe68757753aBE05Db0CF41Fe476AB#code
+
+Constructor arguments:
+  defaultAdmin = 0xB0B16c5ffCcB31f3f68a45c17Cab8C226A5D5222
